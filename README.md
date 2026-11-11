@@ -43,6 +43,8 @@ mantua_summary_EN.pdf — 2-page summary in English
 
 studio_popolazione.pdf — Tables and graphs derived from source data and calculations
 
+studio_popolazione.xlsx — spreadsheet with the source data, all calculations (as live formulas) and charts, one sheet per section: population, age structure, mortality, fertility, migration, projections
+
 ### Tools
 The project was developed using Microsoft Excel and other spreadsheet-based data analysis tools. These tools were used for data organisation, statistical analysis, calculation of demographic indicators and data visualisation.
 
