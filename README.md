@@ -1,4 +1,9 @@
 ## Demographic Analysis of Mantua (2002–2024)
+
+> **At a glance** · 22 years of municipal demographic data · population held stable by immigration despite a negative natural balance · strong ageing and low fertility · demographic indicators and projections built in Excel
+>
+> 📄 Full report (Italian): [`analisi_demografica_mantova.pdf`](analisi_demografica_mantova.pdf)
+
 This project analyses the demographic evolution of the Municipality of Mantua between 2002 and 2024.
 The aim is to describe and interpret the main demographic changes affecting the population, with particular attention to population dynamics, age structure, mortality, fertility, migration and future population trends.
 
