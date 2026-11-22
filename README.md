@@ -29,4 +29,3 @@ Mantua has stayed close to 50,000 inhabitants for two decades. What lies behind 
 
 **Tools:** Excel
 
-**Author:** Sofia Menegozzo — BSc Statistics and Information Management, University of Milano-Bicocca
