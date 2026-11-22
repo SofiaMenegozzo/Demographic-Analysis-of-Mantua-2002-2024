@@ -17,6 +17,7 @@ Mantua has stayed close to 50,000 inhabitants for two decades. What lies behind 
 
 ## Key results
 1 Deaths exceed births almost every year (−498 in 2020), but net migration has been positive since 2008 and reached +1,002 in 2024. While Italy has been shrinking since 2014, Mantua has kept growing.
+
 2 People live longer and have fewer children.** Life expectancy at birth rose from 77.1 to 81.6 years for men and from 83.6 to 85.4 for women; the total fertility rate peaked at 1.61 in 2010 and fell to 1.16.
 
 3  Strong ageing ahead.** Under constant fertility the population falls from about 49,700 to 40,200 by 2045; residents aged 65+ rise from 26% to 36% and the working-age share drops from 62.5% to 54.7%.
